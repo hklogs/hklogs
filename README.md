@@ -34,7 +34,7 @@
 
 I'm an **AI Engineer & SQA Specialist** based in **Rawalpindi / Islamabad, Pakistan** — engineering autonomous agentic AI systems while holding them to the same rigorous QA standards I audit every product against: deterministic verification pipelines, boundary-value discipline, and machine cognition architectures.
 
-Currently: **AI Engineer @ Tritanium Global** · **Executive R&D @ Primus Leads LLC** · **CEO & Founder @ Recruiter AI** · Final-year **BS Software Engineering @ UIIT PMAS-Arid Agriculture University**.
+Currently: **AI Engineer @ Tritanium Global** · **Executive R&D @ Primus Leads LLC** ·  Final-year **BS Software Engineering @ UIIT PMAS-Arid Agriculture University**.
 
 - **SQA & Testing** — Manual & automated testing, boundary value analysis, heuristic validation, predictive log auditing.
 - **AI / Agents** — LangGraph & LangChain orchestration, Gemini Pro/Flash & Vertex AI integration, computer vision, RAG pipelines.
