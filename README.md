@@ -11,6 +11,10 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
+<p align="center">
+<img src="portrait.png" alt="Hassaan Abdullah Kiyani" width="170" style="background-color:#0D0D0D; border:1px solid #262626; box-shadow:0 0 30px rgba(229,9,20,0.3);">
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Oswald&weight=600&size=22&duration=3500&pause=700&color=E50914&background=0D0D0D&center=true&vCenter=true&width=760&height=70&lines=AI+ENGINEER+%26+SQA+SPECIALIST&lines=BUILDING+%26+VALIDATING+AI+DRIVEN+SOLUTIONS&lines=AUTONOMOUS+AGENTS+%7C+RIGOROUS+SQA+AUDITING&lines=RAWALPINDI+%2F+ISLAMABAD%2C+PAKISTAN)](https://github.com/hklogs)
 
 [![Status](https://img.shields.io/badge/AVAILABLE+FOR+FREELANCE+%26+AUDITS-E50914?style=flat&labelColor=0D0D0D)](https://github.com/hklogs)
