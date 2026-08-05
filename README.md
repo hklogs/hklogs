@@ -1,6 +1,9 @@
 <div align="center">
 
-```
+<table>
+  <tr>
+    <td align="left" valign="middle">
+<pre>
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║                       HASSAAN ABDULLAH                       ║
@@ -9,7 +12,13 @@
 ║                    AI ENGINEER & SQA SPECIALIST              ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
-```
+</pre>
+    </td>
+    <td align="right" valign="middle">
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="Coding at a laptop" />
+    </td>
+  </tr>
+</table>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Oswald&weight=600&size=22&duration=3500&pause=700&color=E50914&background=0D0D0D&center=true&vCenter=true&width=760&height=70&lines=AI+ENGINEER+%26+SQA+SPECIALIST&lines=BUILDING+%26+VALIDATING+AI+DRIVEN+SOLUTIONS&lines=AUTONOMOUS+AGENTS+%7C+RIGOROUS+SQA+AUDITING&lines=RAWALPINDI+%2F+ISLAMABAD%2C+PAKISTAN)](https://github.com/hklogs)
 
@@ -63,83 +72,34 @@ Currently: **AI Engineer @ Tritanium Global** · **Executive R&D @ Primus Leads 
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white&labelColor=0D0D0D" alt="LangGraph">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white&labelColor=0D0D0D" alt="TensorFlow">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white&labelColor=0D0D0D" alt="OpenCV">
-<img src="https://img.shields.io/badge/MediaPipe-12B7A9?style=flat&logo=google&logoColor=white&labelColor=0D0D0D" alt="MediaPipe">
-<img src="https://img.shields.io/badge/RAG-E50914?style=flat&labelColor=0D0D0D" alt="RAG">
-<img src="https://img.shields.io/badge/Grok%20API-E50914?style=flat&labelColor=0D0D0D" alt="Grok API">
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Languages-E50914?style=flat" alt="Languages">
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=0D0D0D" alt="TypeScript">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&labelColor=0D0D0D" alt="JavaScript">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=0D0D0D" alt="Python">
-<img src="https://img.shields.io/badge/Java-E76F00?style=flat&logo=java&logoColor=white&labelColor=0D0D0D" alt="Java">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white&labelColor=0D0D0D" alt="Kotlin">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white&labelColor=0D0D0D" alt="C++">
-<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white&labelColor=0D0D0D" alt="C#">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=0D0D0D" alt="SQL">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&labelColor=0D0D0D" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white&labelColor=0D0D0D" alt="CSS3">
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Frontend%20%26%20UI-E50914?style=flat" alt="Frontend and UI">
+<img src="https://img.shields.io/badge/Web%20%26%20Backend-E50914?style=flat" alt="Web and Backend">
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black&labelColor=0D0D0D" alt="React">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&labelColor=0D0D0D" alt="Next.js">
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white&labelColor=0D0D0D" alt="Vite">
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white&labelColor=0D0D0D" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white&labelColor=0D0D0D" alt="Framer Motion">
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black&labelColor=0D0D0D" alt="GSAP">
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white&labelColor=0D0D0D" alt="Chart.js">
-<img src="https://img.shields.io/badge/PWA-E50914?style=flat&labelColor=0D0D0D" alt="PWA">
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Backend%20%26%20Data-E50914?style=flat" alt="Backend and Data">
-</p>
-
-<p align="center">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=0D0D0D" alt="TypeScript">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white&labelColor=0D0D0D" alt="Node.js">
-<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white&labelColor=0D0D0D" alt="Express">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white&labelColor=0D0D0D" alt="FastAPI">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black&labelColor=0D0D0D" alt="Firebase">
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black&labelColor=0D0D0D" alt="Supabase">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white&labelColor=0D0D0D" alt="Tailwind CSS">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white&labelColor=0D0D0D" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=0D0D0D" alt="MongoDB">
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white&labelColor=0D0D0D" alt="SQLite">
-<img src="https://img.shields.io/badge/Scrapy-60A839?style=flat&logo=scrapy&logoColor=white&labelColor=0D0D0D" alt="Scrapy">
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/SQA%20%26%20Testing-E50914?style=flat" alt="SQA and Testing">
+<img src="https://img.shields.io/badge/SQA%20%26%20Tools-E50914?style=flat" alt="SQA and Tools">
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Software%20Quality%20Assurance-E50914?style=flat&labelColor=0D0D0D" alt="Software Quality Assurance">
-<img src="https://img.shields.io/badge/Manual%20%26%20Automated%20Testing-E50914?style=flat&labelColor=0D0D0D" alt="Manual & Automated Testing">
+<img src="https://img.shields.io/badge/Automated%20Testing-E50914?style=flat&labelColor=0D0D0D" alt="Automated Testing">
 <img src="https://img.shields.io/badge/Boundary%20Value%20Analysis-E50914?style=flat&labelColor=0D0D0D" alt="Boundary Value Analysis">
-<img src="https://img.shields.io/badge/Heuristic%20Validation-E50914?style=flat&labelColor=0D0D0D" alt="Heuristic Validation">
-<img src="https://img.shields.io/badge/Predictive%20Log%20Auditing-E50914?style=flat&labelColor=0D0D0D" alt="Predictive Log Auditing">
-<img src="https://img.shields.io/badge/Test%20Case%20Design-E50914?style=flat&labelColor=0D0D0D" alt="Test Case Design">
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Tools%20%26%20Platform-E50914?style=flat" alt="Tools and Platform">
-</p>
-
-<p align="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=0D0D0D" alt="Git">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=0D0D0D" alt="GitHub">
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white&labelColor=0D0D0D" alt="Vercel">
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=black&labelColor=0D0D0D" alt="Android Studio">
-<img src="https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=flat&logo=googlemaps&logoColor=white&labelColor=0D0D0D" alt="Google Maps API">
-<img src="https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white&labelColor=0D0D0D" alt="Leaflet">
 </p>
 
 ---
